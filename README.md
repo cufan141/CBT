@@ -1,4 +1,3 @@
-# CBT
 # MindAlign: Proactive Mental Health Support App
 
 # Project Overview
